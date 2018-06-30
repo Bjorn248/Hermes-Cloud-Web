@@ -1,0 +1,10 @@
+.create-account-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.create-account-form * {
+  margin: 10px;
+}
